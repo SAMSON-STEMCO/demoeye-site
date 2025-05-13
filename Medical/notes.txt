@@ -1,0 +1,14 @@
+Project Acknowledgment
+This website is built upon a template originally designed by TemplateMo.
+
+All design credit goes to the original creators at TemplateMo.
+
+    Significant modifications and engineering were done by Samson Mumo Ngao, including:
+
+        -> Custom backend system integration.
+
+        -> Google Maps functionality.
+
+        -> AI-based data analysis assistant.
+
+    This approach allowed rapid deployment while maintaining room for scalability and intelligent upgrades.
